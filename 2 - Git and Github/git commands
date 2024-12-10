@@ -9,3 +9,18 @@ Making it another version
     git commit -m "CLI NOTES"
    -commit final stage
    -message or description of version
+
+Shows history of commits of one line only
+git log
+   - see versions commited 
+Shows history of commits
+git log --online
+    -  show per line
+
+    green bar, added
+    red, deleted
+
+Legend in git repository
+U - untracked
+A - added
+M - modified    

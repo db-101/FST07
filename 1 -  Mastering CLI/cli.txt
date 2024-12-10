@@ -25,4 +25,10 @@ git config --global user.email "bernardo.daviddaniel@gmail.com"
  git config user.email
 bernardo.daviddaniel@gmail.com
 
- git init
+ git init (1st stage)
+  git add . (2nd stage)
+  git commit -m "CLI NOTES"
+   -commit final stage
+   -message or description of version
+
+   
