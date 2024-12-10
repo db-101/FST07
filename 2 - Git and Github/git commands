@@ -35,4 +35,16 @@ List of all the branches
 - git branch -a
 
 Switch to another branch
- - git checkout 'branchname'
+ - git checkout branchname
+
+Merge master to branch
+git merge branchname
+
+delete branch
+ git branch -d branchname
+
+
+ git remote add origin https://github.com/db-101/FST07.git
+ - Remote > moving to cloud
+ - add  > adding codes to repository
+ - origin > original of repository
