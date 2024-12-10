@@ -1,0 +1,11 @@
+Initializing git repository
+    git init (1st stage)
+
+Add to your staging area
+    git add . (2nd stage)
+
+
+Making it another version
+    git commit -m "CLI NOTES"
+   -commit final stage
+   -message or description of version
