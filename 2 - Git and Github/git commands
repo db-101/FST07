@@ -48,3 +48,13 @@ delete branch
  - Remote > moving to cloud
  - add  > adding codes to repository
  - origin > original of repository
+
+ git branch -M main
+  - branch 
+  - chaning the value master to main
+
+git push -u origin main
+- push > command that save local repository to cloud
+- -u > unique only one time
+- origin > command is for main
+
