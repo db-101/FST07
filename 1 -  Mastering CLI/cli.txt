@@ -1,0 +1,28 @@
+create a directory / Folder
+-mkdir
+
+Remove a directory / Folder 
+-rmdir
+
+Changing directory / Folder
+- cd [directory/ folder name]
+
+Go back to the folder
+- cd..
+
+Creating a file
+- touch [filename.extension]
+
+Remove a file
+- rm [filename.extension]
+
+Clearing the terminal
+- Clear
+
+
+git config --global user.name "David"
+git config --global user.email "bernardo.daviddaniel@gmail.com"
+ git config user.email
+bernardo.daviddaniel@gmail.com
+
+ git init
