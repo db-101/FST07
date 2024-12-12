@@ -19,5 +19,13 @@
     font-weight: 800;
     font-weight: 900;
     font-weight: 950;
+    
+    /*Text alignment  */
+    text-align: right;
+    text-align: center;
+    text-align: left;
 
+    /*  */
+    font-style: italic;
+    font-style: oblique;
 }
