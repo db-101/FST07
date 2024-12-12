@@ -25,7 +25,62 @@
     text-align: center;
     text-align: left;
 
-    /*  */
+    /* font=style emphasis */
     font-style: italic;
-    font-style: oblique;
+    font-style: oblique; 
+    font-style: normal;
+
+    /* letter spacing - add space in each letter */
+    letter-spacing: -2px;
+    letter-spacing: 2px;
+    letter-spacing: normal;
+
+    /* letter spacing - add space in each */
+    letter-spacing: -2px;
+    letter-spacing: 2px;
+    letter-spacing: normal;
+
+    line-height: 40px;
+
+
+  
+}
+
+#text-decoration{
+
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: none;
+    text-decoration: underline;
+
+    text-decoration-style: double;
+    text-decoration-style: dotted;
+    text-decoration-style: dashed;
+    text-decoration-style: wavy;
+
+    text-decoration-color: blue;
+    text-decoration-thickness: 3px;
+    text-decoration:red underline dotted 5px; 
+
+        
+}
+
+#colors{
+    color:green;
+    background-color: grey;
+
+    /* RGB red green blue */
+    /*rgb - add opacity (fully visible to transparent) 1-0 */
+    color:rgb(0,255,255);
+    background-color: rgba(0,0,0,0.6);
+
+}
+
+#absolute-unit-px{
+
+    font-size: 30px;
+}
+
+#relative-unit-em{
+    font-size: 2em;
 }
