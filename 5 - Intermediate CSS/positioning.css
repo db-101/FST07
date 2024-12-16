@@ -1,0 +1,43 @@
+
+#relative {
+    /* relative to its original element */
+    background-color: aqua;
+    position: relative;
+    /* top, left,right, bottom*/
+    
+    top: 60px;
+    left: 30px;
+
+}   
+
+#absolute {
+    /* remove it from the normal flow and will be ignored by the next line */
+    /*relative  to the parent container only if the parent, is not static, else relative to the viewport or visible portion of the screen*/
+    background-color: tomato;
+    position: absolute;
+
+    /* top, left,right, bottom*/
+    top: 0px;
+    right: 0px;
+
+}
+
+#fixed {
+    background-color: burlywood;
+    /*will be removed from the document, relative to viewport*/;
+    /* top, left,right, bottom*/
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    
+}
+
+#sticky {
+    background-color: chartreuse;
+    /*relative to viewport, will stick to the scrolled position, or location*/;
+    /* top, left,right, bottom*/
+    position: sticky;
+    top: 0px;
+    right: 0px;
+    
+}
