@@ -31,4 +31,7 @@ bernardo.daviddaniel@gmail.com
    -commit final stage
    -message or description of version
 
+
+Via desktop clone in github app then open VSCode
+
    
